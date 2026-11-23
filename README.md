@@ -5,7 +5,6 @@ Ce projet a deux volets :
 1. **Gestion de projet** : préparer le passage du chatbot RAG du [Projet 11](../Projet_11) d'un POC à un **MVP** déployable dans le cloud, en analysant les besoins, en planifiant, en choisissant l'architecture et en estimant les coûts ;
 2. **Portfolio** : présenter les 13 projets réalisés pendant la formation de data engineer.
 
-> **Statut : en cours.** Le rapport de gestion de projet est en cours de rédaction. Le comparatif cloud et le portfolio sont rédigés.
 
 ## Contexte
 
