@@ -80,15 +80,6 @@ Le rapport (`Siesse_Thomas_1_Rapport gestion projet_112026.odt`) suit le plan im
 | Pipelines et infrastructure | P8 (Airbyte, dbt, AWS), P9 (Redpanda, PySpark streaming), P10 (Kestra), P12 (Kafka, Debezium, MinIO) |
 | IA | P11 (RAG Mistral), P13 (POC → MVP) |
 
-## Fichiers
-
-| Fichier | Description |
-| --- | --- |
-| `Siesse_Thomas_1_Rapport gestion projet_112026.odt` | Rapport de gestion de projet, en cours |
-| `Rapport+de+gestion+de+projet.docx` | Modèle de rapport fourni |
-| `comparatif_cloud_mvp.md` | Comparatif AWS, Google Cloud et Azure, avec la recommandation |
-| `Besoin_projet_13.ods` | Tableur de recensement des besoins, à compléter |
-| `Portfolio.md` | Portfolio de data engineer |
 
 ## Auteur
 
